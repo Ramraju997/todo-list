@@ -1,0 +1,14 @@
+.footer-checkbox {
+    width: 24px;
+    height: 24px;
+    margin-left: 70px;
+}
+
+.footer-content {
+    display: flex;
+}
+
+.footer-span {
+    font-size: 18px;
+    padding-left: 8px;
+}

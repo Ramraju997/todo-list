@@ -1,0 +1,18 @@
+.list-items {
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+}
+
+.input-checkbox {
+    width: 16px;
+    height: 16px;
+}
+
+.input-label {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 24px;
+}
